@@ -1,0 +1,12 @@
+1. Get input from File 
+test to be done
+
+x program should open a file positive and negative test cases
+x program should check file is not empty
+X program should read text from file
+x program should check if line is not empty
+x program should read all lines from program
+- program should move entire input to a string
+- program should check each character of the string and output the std pair element based on the sign
+- program should only check the following elements: <^>v 
+
